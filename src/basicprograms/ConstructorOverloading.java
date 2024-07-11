@@ -7,11 +7,11 @@ public class ConstructorOverloading {
 	}
 	ConstructorOverloading(int a)//THIS IS Parameterized CONSTRUCTOR
 	{
-		System.out.println("This is Amazon Constructor with parameter");
+		System.out.println("This is Amazon Constructor with one parameter");
 	}
 	ConstructorOverloading(int a, double c)
 	{
-		System.out.println("This is Amazon Constructor with parameter");
+		System.out.println("This is Amazon Constructor with two parameters");
 	}
 
 	public static void main(String[] args) {

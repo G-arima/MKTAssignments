@@ -20,7 +20,7 @@ public class ConstructorOverloading {
 		new Amazon();*/
 		new ConstructorOverloading();
 		new ConstructorOverloading(55);
-		new ConstructorOverloading(19,3.14);
+		ConstructorOverloading cl=new ConstructorOverloading(19,3.14);
 
 	}
 

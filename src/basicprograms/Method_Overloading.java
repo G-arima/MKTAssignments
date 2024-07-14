@@ -4,7 +4,7 @@ public class Method_Overloading {
 	
 	static void add(int a)
 	{
-	System.out.println("1");	
+	System.out.println(a);	
 	}
 	static void add()
 	{

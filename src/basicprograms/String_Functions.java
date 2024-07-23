@@ -8,7 +8,7 @@ public class String_Functions {
 		System.out.println(s.toLowerCase());
 		System.out.println(s.substring(0, 6));
 		System.out.println(s.substring(7, 12));
-		System.out.println(s.substring(13, 19));
+		System.out.println(s.substring(13));
 
 	}
 
